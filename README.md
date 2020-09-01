@@ -11,4 +11,4 @@ Built SVM, Logistics Regression, CNN using restaurants’ features and ratings. 
 Distinguished other good restaurants in Brazil based on the LR model and visualized it.
 
 # Code
-https://colab.research.google.com/drive/1F2gaRY8Yu-ldbOUdIgJhnunrd0zuwqFD?usp=sharing
+https://bitbucket.org/INF_560_Practicum/team-signal/src/master/
