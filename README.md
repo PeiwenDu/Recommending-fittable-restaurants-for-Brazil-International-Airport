@@ -1,4 +1,4 @@
-# Recommending-fittable-restaurants-for-Brazil-International-Airport
+# Recommending fittable restaurants for Brazil International Airport
 
 # The project description
 The project is aimed at enhancing customer satisfaction and Brazil Rio Galeao International airport's profitability. We defined the existed restaurants' ratings in the airport, and used those restaurants to train supervised machine learning models, finally used the best model to suggest other restaurants in Brazil which would be suitable to this airport.
